@@ -1897,14 +1897,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/liugengpc/Desktop/SM/SM/www/areas/goodsList/goodsList.html",
-					"settings":
-					{
-						"buffer_size": 1727,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -2262,7 +2254,7 @@
 						"Preferences: Key Bindings - Default"
 					]
 				],
-				"width": 472.0
+				"width": 528.0
 			},
 			"console":
 			{
@@ -2286,15 +2278,18 @@
 			"expanded_folders":
 			[
 				"/C/Users/liugengpc/Desktop/Hybird App",
-				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www",
 				"/C/Users/liugengpc/Desktop/SM",
 				"/C/Users/liugengpc/Desktop/SM/SM",
 				"/C/Users/liugengpc/Desktop/SM/SM/www",
 				"/C/Users/liugengpc/Desktop/SM/SM/www/areas",
-				"/C/Users/liugengpc/Desktop/SM/SM/www/areas/goodsList"
+				"/C/Users/liugengpc/Desktop/SM/SM/www/areas/home",
+				"/C/Users/liugengpc/Desktop/SM/SM/www/areas/tab",
+				"/C/Users/liugengpc/Desktop/SM/SM/www/js"
 			],
 			"file_history":
 			[
+				"/C/Users/liugengpc/Desktop/SM/SM/www/areas/tab/tab.html",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/ionic-sublime-plugin/README.md",
 				"/C/Users/liugengpc/Desktop/Todo.md",
 				"/C/Users/liugengpc/Desktop/4号.md",
 				"/C/Users/liugengpc/Desktop/angular-me/index.html",
@@ -2420,9 +2415,7 @@
 				"/C/Users/liugengpc/Desktop/nodejs/myalbum/config.js",
 				"/C/Users/liugengpc/Desktop/nodejs/myalbum/router.js",
 				"/C/Users/liugengpc/Desktop/nodejs/express/index.js",
-				"/C/Users/liugengpc/Desktop/nodejs/express/README.md",
-				"/C/dev/nvm/npm/node_modules/nrm/registries.json",
-				"/C/Users/liugengpc/Desktop/nodejs/music/my-music-pro-4/common/render.js"
+				"/C/Users/liugengpc/Desktop/nodejs/express/README.md"
 			],
 			"find":
 			{
@@ -2598,150 +2591,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/liugengpc/Desktop/SM/SM/www/areas/goodsList/goodsList.html",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 1727,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content"
-									],
-									"bs_sintax": "html",
-									"buffer_scroll_name": "e7098865",
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										224,
-										4,
-										6,
-										10,
-										17,
-										31,
-										4,
-										249,
-										193,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"is_xml": false,
-									"origin_encoding": "UTF-8",
-									"spell_check": false,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -2793,7 +2644,7 @@
 				"height": 238.0
 			},
 			"pinned_build_system": "Packages/User/chrome.sublime-build",
-			"position": "0,0,1,-1,-1,-1,-1,473,108,31,1110",
+			"position": "0,2,3,-32000,-32000,-1,-1,574,529,132,1531",
 			"project": "",
 			"replace":
 			{
