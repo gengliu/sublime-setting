@@ -1,0 +1,2902 @@
+{
+	"folder_history":
+	[
+		"/C/Users/liugengpc/Desktop/SM",
+		"/C/Users/liugengpc/Desktop/Hybird App",
+		"/C/Users/liugengpc/Desktop/模块化资料/模块化资料/demo1",
+		"/C/Users/liugengpc/Desktop/54361b910001fed400000000",
+		"/E/传智视频/就业班/angular/day04/day04/day04/todomvc",
+		"/C/Users/liugengpc/Desktop/angular-me",
+		"/C/Users/liugengpc/Desktop/angularme",
+		"/C/Users/liugengpc/Desktop/angular",
+		"/G/二期就业班/ionic/2、资料/备课代码/第二遍代码/myApp",
+		"/G/二期就业班/ionic/2、资料/备课代码/第二遍代码",
+		"/G/www/study/Ajax",
+		"/C/Users/liugengpc/Desktop/Ajax",
+		"/E/传智视频/就业班/angular/day01/day01/code",
+		"/C/Users/liugengpc/Desktop/gulp-object",
+		"/C/Users/liugengpc/Desktop/nodejs/相册项目",
+		"/C/Users/liugengpc/Desktop/album",
+		"/C/Users/liugengpc/Desktop/nodejs/myalbum",
+		"/C/Users/liugengpc/Desktop/nodejs/album",
+		"/C/Users/liugengpc/Desktop/nodejs/express",
+		"/C/Users/liugengpc/Desktop/nodejs/music/my-music-pro-4",
+		"/C/Users/liugengpc/Desktop/nodejs/music/my-music",
+		"/C/Users/liugengpc/Desktop/nodejs/mysing",
+		"/C/Users/liugengpc/Desktop/music/my-music",
+		"/C/Users/liugengpc/Desktop/my-music",
+		"/C/Users/liugengpc/Desktop/今天的项目",
+		"/C/Users/liugengpc/Desktop/mysing",
+		"/C/Users/liugengpc/Desktop/code",
+		"/G/object/nodeCode",
+		"/G/object/node",
+		"/G/chaunzhi/node",
+		"/C/Users/liugengpc/Desktop/面试",
+		"/G/自定义通用框架",
+		"/C/Users/liugengpc/Desktop/08 ajax案例最终代码和数据/sc01/sc01",
+		"/C/Users/liugengpc/Desktop/qiku360",
+		"/C/Users/liugengpc/Desktop/第04部分 面向对象/06 面向对象认识认识JS世界",
+		"/C/Users/liugengpc/Desktop/第04部分 面向对象/06 面向对象认识认识JS世界/04 面向对象认识JS - 内置对象/03 date",
+		"/C/Users/liugengpc/Desktop/04  实战 百度星座案例",
+		"/C/Users/liugengpc/Desktop/07 实战 面向对象实现一个真正的商城",
+		"/G/chaunzhi/面向对象",
+		"/C/Users/liugengpc/Desktop/sass",
+		"/C/Users/liugengpc/Desktop/list",
+		"/G/object/Canvas",
+		"/C/Users/liugengpc/Desktop/wjs",
+		"/G/chaunzhi/wjs",
+		"/G/chaunzhi/mobile page",
+		"/G/MJD",
+		"/G/www/liugeng/WaterFalls me",
+		"/G/chaunzhi/WaterFalls flow",
+		"/G/www/study",
+		"/G/www/study/PHP",
+		"/G/object/html5css3部分/css3",
+		"/C/Users/liugengpc/Desktop/4-源代码",
+		"/G/object/html5css3部分",
+		"/G/我的项目",
+		"/E/我的项目",
+		"/E/object/JD",
+		"/E/github",
+		"/C/Users/liugengpc/Desktop/我的网页/三个网站实例",
+		"/C/Users/liugengpc/Desktop/我的网页"
+	],
+	"last_version": 3103,
+	"last_window_id": 70,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 383.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"src",
+						"src	Attr"
+					],
+					[
+						"ngcl",
+						"ng-click	AngularJS"
+					],
+					[
+						"con",
+						"config.js"
+					],
+					[
+						"module",
+						"verbose_module	AngularJS"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"val",
+						"value〔variable〕"
+					],
+					[
+						"css",
+						"css/"
+					],
+					[
+						"a",
+						"albumController"
+					],
+					[
+						"in",
+						"indexController"
+					],
+					[
+						"inde",
+						"indexController〔variable〕"
+					],
+					[
+						"roo",
+						"rootDir"
+					],
+					[
+						"mu",
+						"musicList"
+					],
+					[
+						"ht",
+						"htmlStr"
+					],
+					[
+						"htm",
+						"htmlStr〔variable〕"
+					],
+					[
+						"cons",
+						"const〔keyword〕"
+					],
+					[
+						"readfile",
+						"fs.readFile(path, options, callback_);"
+					],
+					[
+						"url",
+						"urlObj〔variable〕"
+					],
+					[
+						"requ",
+						"request	(07.js)"
+					],
+					[
+						"q",
+						"querystring	(07.js)"
+					],
+					[
+						"require",
+						"require〔function〕"
+					],
+					[
+						"log",
+						"util.log();"
+					],
+					[
+						"creates",
+						"http.createServer(requestListener);"
+					],
+					[
+						"appendFile",
+						"fs.appendFile(path, data, options, callback_);"
+					],
+					[
+						"cosn",
+						"const"
+					],
+					[
+						"read",
+						"fs.readFileSync(path, options);"
+					],
+					[
+						"writeF",
+						"fs.writeFileSync(path, data, options);"
+					],
+					[
+						"readfi",
+						"fs.readFile(path, options, callback_);"
+					],
+					[
+						"fi",
+						"fileName"
+					],
+					[
+						"i",
+						"item"
+					],
+					[
+						"createS",
+						"http.createServer(requestListener);"
+					],
+					[
+						"get",
+						"getDay〔function〕"
+					],
+					[
+						"getm",
+						"getMonth〔function〕"
+					],
+					[
+						"thi",
+						"thisele.js"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"cal",
+						"callback〔variable〕"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"mr",
+						"mr-a	margin-right: auto;"
+					],
+					[
+						"d",
+						"demo2.js"
+					],
+					[
+						"ease",
+						"easeInBack"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"query",
+						"querySelectorAll"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"k",
+						"kuangjia.js"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"ge",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"cla",
+						"className〔argument〕"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"getEl",
+						"getElementsByTagName"
+					],
+					[
+						"ta",
+						"target"
+					],
+					[
+						"prto",
+						"prototype"
+					],
+					[
+						"func",
+						"function〔keyword〕"
+					],
+					[
+						"p",
+						"process._kill();"
+					],
+					[
+						"bin",
+						"bindDOMImage〔variable〕"
+					],
+					[
+						"bindD",
+						"bindDOMImages"
+					],
+					[
+						"js",
+						"js2/"
+					],
+					[
+						"bind",
+						"bindDOM"
+					],
+					[
+						"pr",
+						"product"
+					],
+					[
+						"dom",
+						"domAddcart"
+					],
+					[
+						"domP",
+						"domPname〔variable〕"
+					],
+					[
+						"ip",
+						"iphone6s"
+					],
+					[
+						"cat",
+						"catNum1"
+					],
+					[
+						"catN",
+						"catNum1〔variable〕"
+					],
+					[
+						"parse",
+						"parseInt〔function〕"
+					],
+					[
+						"input",
+						"inputNum"
+					],
+					[
+						"pars",
+						"parseInt〔function〕"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"ima",
+						"image/"
+					],
+					[
+						"cen",
+						"centerY〔variable〕"
+					],
+					[
+						"gr",
+						"groupOrLayer"
+					],
+					[
+						"font",
+						"fontSize〔variable〕"
+					],
+					[
+						"dash",
+						"dashedCircle"
+					],
+					[
+						"da",
+						"dashedCircle"
+					],
+					[
+						"center",
+						"centerY	Default"
+					],
+					[
+						"add",
+						"add()	Select"
+					],
+					[
+						"inner",
+						"innerHeight	Window"
+					],
+					[
+						"trans",
+						"translate()	Canvas 2"
+					],
+					[
+						"fill",
+						"fill()	Canvas 2"
+					],
+					[
+						"stroke",
+						"stroke()	Canvas 2"
+					],
+					[
+						"r",
+						"rect()	Canvas 2"
+					],
+					[
+						"al",
+						"alert()	Window"
+					],
+					[
+						"is",
+						"isPrototypeOf()"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"haso",
+						"hasOwnProperty()"
+					],
+					[
+						"has",
+						"hasOwnpreperty"
+					],
+					[
+						"qu",
+						"querySelectorAll()"
+					],
+					[
+						"clea",
+						"clearRect()	Canvas 2"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"lie",
+						"lineTo()	Canvas 2"
+					],
+					[
+						"text",
+						"textAlign	Canvas 2"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"can",
+						"canvas	Canvas 2"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"stro",
+						"strokeStyle	Canvas 2"
+					],
+					[
+						"move",
+						"moveTo()	Canvas 2"
+					],
+					[
+						"ca",
+						"canvas	Tag"
+					],
+					[
+						"style",
+						"style	Tag"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"ic",
+						"icon"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"mari",
+						"margin"
+					],
+					[
+						"ma",
+						"mask"
+					],
+					[
+						"po",
+						"popWindowCancel"
+					],
+					[
+						"de",
+						"deleteButtons"
+					],
+					[
+						"tran",
+						"translateY"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"shop",
+						"shopbox_main"
+					],
+					[
+						"marin",
+						"margin-left"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"ch",
+						"changeTranslateY"
+					],
+					[
+						"star",
+						"startY〔variable〕"
+					],
+					[
+						"lef",
+						"leftChildBox〔variable〕"
+					],
+					[
+						"left",
+						"leftChildBox〔variable〕"
+					],
+					[
+						"hea",
+						"header	Tag"
+					],
+					[
+						"no",
+						"nowTime"
+					],
+					[
+						"se",
+						"seconds"
+					],
+					[
+						"span",
+						"spansParent"
+					],
+					[
+						"par",
+						"parseInt〔function〕"
+					],
+					[
+						"ite",
+						"items"
+					],
+					[
+						"te",
+						"template"
+					],
+					[
+						"mi",
+						"min_key"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/User/chrome.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Nodejs/Nodejs.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 282.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"tag",
+						"Tag: Auto-Format Tags on Selection"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"al",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"ter",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"q",
+						"Quote '  <HTML>' + '  </HTML>';"
+					],
+					[
+						"",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"qu",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"quo",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"ali",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"ro",
+						"Package Control: Remove Package"
+					],
+					[
+						"r",
+						"Package Control: Remove Package"
+					],
+					[
+						"sideba",
+						"View: Toggle Side Bar"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"op",
+						"Terminal: Open in project folder"
+					],
+					[
+						"te",
+						"Terminal: Open"
+					],
+					[
+						"pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"con",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"conver",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"col",
+						"Color Picker"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ese",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"ever",
+						"Evernote: List recent notes"
+					],
+					[
+						"evernote",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"tpmlm",
+						"Tmpl: Create markdown"
+					],
+					[
+						"tpl",
+						"Tmpl: Create markdown"
+					],
+					[
+						"set mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Evernote Metadata"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"do",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"MarkdownEditing",
+						"Preferences: MarkdownEditing Settings – Default"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ev",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"everno",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"md",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"search",
+						"Evernote: Search Note"
+					],
+					[
+						"Evernote: Open Evernote Note",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"send to everonte",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"toggle me",
+						"View: Toggle Menu"
+					],
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"wr",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"instaa",
+						"Package Control: Install Package"
+					],
+					[
+						"CSS",
+						"Set Syntax: CSS"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"jq",
+						"Snippet: jQuery.get"
+					],
+					[
+						"jQuery",
+						"Snippet: jQuery.ajax"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"package control ",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: List Packages"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"minimap",
+						"View: Toggle Minimap"
+					],
+					[
+						"remov",
+						"Emmet: Remove Tag"
+					],
+					[
+						"romove",
+						"Package Control: Remove Channel"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"key bindings",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"sidebar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"seting",
+						"Preferences: Settings - User"
+					],
+					[
+						"key b",
+						"Preferences: Key Bindings - Default"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"sublime.log_commands(true)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/liugengpc/Desktop/Todo.md",
+				"/C/Users/liugengpc/Desktop/4号.md",
+				"/C/Users/liugengpc/Desktop/angular-me/index.html",
+				"/C/Users/liugengpc/Desktop/angular-me/demo.js",
+				"/E/传智视频/就业班/angular/day04/day04/day04/README.md",
+				"/C/Users/liugengpc/Desktop/angular/demo.js",
+				"/C/Users/liugengpc/Desktop/angular/npm-debug.log",
+				"/C/Users/liugengpc/Desktop/node_modules/angular/package.json",
+				"/C/Users/liugengpc/Desktop/angular/index.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/index.html",
+				"/C/Users/liugengpc/.npmrc",
+				"/C/Users/liugengpc/.cnpmrc",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home_controller.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home_route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home_service.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab_route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab_controller.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab_service.js",
+				"/G/面试相关/项目/工作经验.md",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage_controller.js",
+				"/G/面试相关/面试题/面试题总结-html-css部分.md",
+				"/C/Users/liugengpc/Desktop/demo.html",
+				"/C/Users/liugengpc/Desktop/31号.md",
+				"/G/面试相关/面试题/面试题总结.md",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage_route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage_service.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guildPage.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/app.js",
+				"/G/二期就业班/ionic/2、资料/备课代码/第二遍代码/myApp/www/index.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/global.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/config.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/Interview.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/31号.md",
+				"/C/Users/liugengpc/Desktop/项目/工作经验.md",
+				"/G/www/study/Ajax/demo.html",
+				"/G/www/study/Ajax/01.php",
+				"/D/wamp/bin/apache/Apache2.2.21/bin/php.ini",
+				"/C/Users/liugengpc/Desktop/Ajax/demo.html",
+				"/C/Users/liugengpc/Desktop/工作经验.md",
+				"/G/面试相关/面试注意/简历书写注意点.md",
+				"/C/Users/liugengpc/Desktop/简历书写注意点.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/E/传智视频/就业班/angular/day01/day01/code/01-hash.html",
+				"/E/传智视频/就业班/angular/day01/day01/code/05-calc.html",
+				"/E/传智视频/就业班/angular/day02/day02/README.md",
+				"/C/Users/liugengpc/Desktop/angular/register.html",
+				"/E/传智视频/就业班/angular/day01/day01/code/07-register.html",
+				"/E/传智视频/就业班/angular/day02/day02/UNREADME.md",
+				"/C/Users/liugengpc/Desktop/angular/test/directive.html",
+				"/C/Users/liugengpc/Desktop/AngularJS.sublime-package",
+				"/G/lib/jquery/jquery-1.12.1.js",
+				"/E/传智视频/就业班/angular/day01/day01/code/08-reg2.html",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/E/传智视频/就业班/angular/day01/day01/code/02-spa-hash.html",
+				"/E/传智视频/就业班/angular/day01/day01/README.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/lianxi.html",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/test/index.html",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/JavaScriptNext.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/test/bower_components/angular/README.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/test/bower_components/jquery/README.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+				"/C/Users/liugengpc/Desktop/gulp-object/gulpfile.js",
+				"/C/Users/liugengpc/Desktop/project/README.md",
+				"/C/Users/liugengpc/Desktop/hosts",
+				"/C/Users/liugengpc/.ssh/id_rsa.pub",
+				"/G/www/study/360/index.html",
+				"/C/Users/liugengpc/Desktop/note/my-git-note.md",
+				"/C/Users/liugengpc/.gitconfig",
+				"/G/www/study/360/.git/index",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/liugengpc/Desktop/liugeng/index.html",
+				"/C/Users/liugengpc/Desktop/myalbum2/app.js",
+				"/C/Users/liugengpc/Desktop/fiddler/资料/README.md",
+				"/C/Users/liugengpc/Desktop/nodejs/happy-blog/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/controller/album.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/controller/album.js",
+				"/C/Users/liugengpc/Desktop/express - 副本 (2).md",
+				"/C/Users/liugengpc/Desktop/express - 副本.md",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/test/demo2.js",
+				"/C/Users/liugengpc/Desktop/express.md",
+				"/E/传智视频/就业班/nodejs/NodeJS第09天/code/README.md",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/controller/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/controller/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/router.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/config.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/router.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/config.js",
+				"/C/Users/liugengpc/Desktop/fiddler/两种模式.js",
+				"/C/Users/liugengpc/Desktop/fiddler/index.js",
+				"/C/Users/liugengpc/Desktop/fiddler/README.md",
+				"/C/Users/liugengpc/Desktop/nodejs/mysing/lib/index.js",
+				"/C/Users/liugengpc/Desktop/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/music/my-music-pro-4/index.js",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/liugengpc/Desktop/nec-plugin-sublime-snippets/nec-plugin-sublime-snippets/css-snippets/g-bd1兼容.sublime-snippet",
+				"/C/Users/liugengpc/Desktop/xtemplate-master/xtemplate-master/docs/syntax-cn.md",
+				"/C/Users/liugengpc/Desktop/sql.sql",
+				"/C/Program Files/MySQL/MySQL Server 5.5/my.ini",
+				"/C/Users/liugengpc/Desktop/my.ini",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/controller/user.js",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/app.js",
+				"/C/Users/liugengpc/Desktop/album/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/test/demo1.html",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/config.js",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/router.js",
+				"/C/Users/liugengpc/Desktop/nodejs/express/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/express/README.md",
+				"/C/dev/nvm/npm/node_modules/nrm/registries.json",
+				"/C/Users/liugengpc/Desktop/nodejs/music/my-music-pro-4/common/render.js"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 144.0,
+				"where_history":
+				[
+					"E:\\我的项目",
+					"C:\\Users\\liugengpc\\Desktop\\我的网页\\三个网站实例\\网页布局基础"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"header",
+					"heade",
+					"any",
+					"arr",
+					"“",
+					"size",
+					"tabsize",
+					"init",
+					"substrin",
+					"reindent",
+					"indent",
+					"tab_size",
+					"tab",
+					"});\n",
+					"default",
+					"defau",
+					"span",
+					"//",
+					"///",
+					"//",
+					"id",
+					"id=\"\"",
+					"name",
+					"querystring",
+					"url",
+					"访问数组的方式有两种，都是什么？",
+					";\n",
+					"var",
+					"fs",
+					"rootDir",
+					"readDirs",
+					" readDirs(",
+					"articalList",
+					"callback",
+					"ignored",
+					"exports",
+					"first",
+					"html",
+					"id",
+					"doms[i]",
+					"ll.css",
+					"name",
+					"ll.css",
+					"ll",
+					"dom",
+					"id",
+					"elements",
+					" global",
+					"for",
+					"_getTween",
+					"arguments",
+					"callBack",
+					" obj.callback",
+					"callback",
+					"getTween",
+					"setManyProperty",
+					"run",
+					"loop",
+					"move",
+					"run",
+					"loop",
+					"move",
+					"setManyProperty",
+					"adapterMany",
+					"getStyles",
+					"pass",
+					"destroy",
+					"_destroy",
+					"callback",
+					"add",
+					"{\n",
+					"styles",
+					"Styles",
+					"styles",
+					"callback",
+					"add",
+					"_destroy",
+					"_apdapter",
+					"arguments",
+					"$$",
+					"top",
+					"$$",
+					"obj.tween",
+					"this.",
+					"timer",
+					"ween",
+					"now",
+					"console",
+					"getTween",
+					"setManyProperty",
+					"this",
+					"styles",
+					"$$",
+					"adapter",
+					"tween",
+					"name",
+					" getTween",
+					"ease",
+					"id",
+					"ball",
+					"dom",
+					"obj",
+					"redcolor bigger",
+					"div",
+					"$$",
+					"\n            if(dom.length){\n                //先骨架骨架 -- 如果是获取模",
+					"\n                //先骨架骨架 -- 如果是获取模式 -- 如果是设置模式\n                //如果value不为空，则表示设置\n                if(value){",
+					"$$",
+					"$all",
+					"$$",
+					"css",
+					"$$",
+					"$group",
+					"select",
+					"len1",
+					"$$",
+					"len",
+					"console",
+					"$cenci",
+					"item.slice(index + 1)",
+					"$$",
+					"idDom",
+					"$class",
+					"id",
+					"hover",
+					"document",
+					"导演",
+					"美人鱼"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"#",
+					"hello"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 42.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 47.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 280.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 238.0
+			},
+			"pinned_build_system": "Packages/User/chrome.sublime-build",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"re",
+						"my-music-pro-4\\common\\render.js"
+					],
+					[
+						"this",
+						"demo\\thisele.html"
+					],
+					[
+						"html5/",
+						"html5\\1.html"
+					],
+					[
+						"boot",
+						"练习\\bootstrap.css"
+					],
+					[
+						"111",
+						"练习\\111.html"
+					],
+					[
+						"two.html",
+						"Canvas\\two.html"
+					],
+					[
+						"reg.html",
+						"小实例\\表单\\reg.html"
+					],
+					[
+						"html",
+						"练习\\表单.html"
+					],
+					[
+						"css",
+						"形形色色的下拉菜单\\css.html"
+					],
+					[
+						"",
+						"网页布局基础\\case2\\index.html"
+					],
+					[
+						"style.css",
+						"网页布局基础\\case2\\css\\style.css"
+					],
+					[
+						"index.html",
+						"网页布局基础\\case2\\index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 986.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"src",
+						"src	Attr"
+					],
+					[
+						"ngcl",
+						"ng-click	AngularJS"
+					],
+					[
+						"con",
+						"config.js"
+					],
+					[
+						"module",
+						"verbose_module	AngularJS"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"val",
+						"value〔variable〕"
+					],
+					[
+						"css",
+						"css/"
+					],
+					[
+						"a",
+						"albumController"
+					],
+					[
+						"in",
+						"indexController"
+					],
+					[
+						"inde",
+						"indexController〔variable〕"
+					],
+					[
+						"roo",
+						"rootDir"
+					],
+					[
+						"mu",
+						"musicList"
+					],
+					[
+						"ht",
+						"htmlStr"
+					],
+					[
+						"htm",
+						"htmlStr〔variable〕"
+					],
+					[
+						"cons",
+						"const〔keyword〕"
+					],
+					[
+						"readfile",
+						"fs.readFile(path, options, callback_);"
+					],
+					[
+						"url",
+						"urlObj〔variable〕"
+					],
+					[
+						"requ",
+						"request	(07.js)"
+					],
+					[
+						"q",
+						"querystring	(07.js)"
+					],
+					[
+						"require",
+						"require〔function〕"
+					],
+					[
+						"log",
+						"util.log();"
+					],
+					[
+						"creates",
+						"http.createServer(requestListener);"
+					],
+					[
+						"appendFile",
+						"fs.appendFile(path, data, options, callback_);"
+					],
+					[
+						"cosn",
+						"const"
+					],
+					[
+						"read",
+						"fs.readFileSync(path, options);"
+					],
+					[
+						"writeF",
+						"fs.writeFileSync(path, data, options);"
+					],
+					[
+						"readfi",
+						"fs.readFile(path, options, callback_);"
+					],
+					[
+						"fi",
+						"fileName"
+					],
+					[
+						"i",
+						"item"
+					],
+					[
+						"createS",
+						"http.createServer(requestListener);"
+					],
+					[
+						"get",
+						"getDay〔function〕"
+					],
+					[
+						"getm",
+						"getMonth〔function〕"
+					],
+					[
+						"thi",
+						"thisele.js"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"cal",
+						"callback〔variable〕"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"mr",
+						"mr-a	margin-right: auto;"
+					],
+					[
+						"d",
+						"demo2.js"
+					],
+					[
+						"ease",
+						"easeInBack"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"query",
+						"querySelectorAll"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"k",
+						"kuangjia.js"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"ge",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"cla",
+						"className〔argument〕"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"getEl",
+						"getElementsByTagName"
+					],
+					[
+						"ta",
+						"target"
+					],
+					[
+						"prto",
+						"prototype"
+					],
+					[
+						"func",
+						"function〔keyword〕"
+					],
+					[
+						"p",
+						"process._kill();"
+					],
+					[
+						"bin",
+						"bindDOMImage〔variable〕"
+					],
+					[
+						"bindD",
+						"bindDOMImages"
+					],
+					[
+						"js",
+						"js2/"
+					],
+					[
+						"bind",
+						"bindDOM"
+					],
+					[
+						"pr",
+						"product"
+					],
+					[
+						"dom",
+						"domAddcart"
+					],
+					[
+						"domP",
+						"domPname〔variable〕"
+					],
+					[
+						"ip",
+						"iphone6s"
+					],
+					[
+						"cat",
+						"catNum1"
+					],
+					[
+						"catN",
+						"catNum1〔variable〕"
+					],
+					[
+						"parse",
+						"parseInt〔function〕"
+					],
+					[
+						"input",
+						"inputNum"
+					],
+					[
+						"pars",
+						"parseInt〔function〕"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"ima",
+						"image/"
+					],
+					[
+						"cen",
+						"centerY〔variable〕"
+					],
+					[
+						"gr",
+						"groupOrLayer"
+					],
+					[
+						"font",
+						"fontSize〔variable〕"
+					],
+					[
+						"dash",
+						"dashedCircle"
+					],
+					[
+						"da",
+						"dashedCircle"
+					],
+					[
+						"center",
+						"centerY	Default"
+					],
+					[
+						"add",
+						"add()	Select"
+					],
+					[
+						"inner",
+						"innerHeight	Window"
+					],
+					[
+						"trans",
+						"translate()	Canvas 2"
+					],
+					[
+						"fill",
+						"fill()	Canvas 2"
+					],
+					[
+						"stroke",
+						"stroke()	Canvas 2"
+					],
+					[
+						"r",
+						"rect()	Canvas 2"
+					],
+					[
+						"al",
+						"alert()	Window"
+					],
+					[
+						"is",
+						"isPrototypeOf()"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"haso",
+						"hasOwnProperty()"
+					],
+					[
+						"has",
+						"hasOwnpreperty"
+					],
+					[
+						"qu",
+						"querySelectorAll()"
+					],
+					[
+						"clea",
+						"clearRect()	Canvas 2"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"lie",
+						"lineTo()	Canvas 2"
+					],
+					[
+						"text",
+						"textAlign	Canvas 2"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"can",
+						"canvas	Canvas 2"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"stro",
+						"strokeStyle	Canvas 2"
+					],
+					[
+						"move",
+						"moveTo()	Canvas 2"
+					],
+					[
+						"ca",
+						"canvas	Tag"
+					],
+					[
+						"style",
+						"style	Tag"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"ic",
+						"icon"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"mari",
+						"margin"
+					],
+					[
+						"ma",
+						"mask"
+					],
+					[
+						"po",
+						"popWindowCancel"
+					],
+					[
+						"de",
+						"deleteButtons"
+					],
+					[
+						"tran",
+						"translateY"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"shop",
+						"shopbox_main"
+					],
+					[
+						"marin",
+						"margin-left"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"ch",
+						"changeTranslateY"
+					],
+					[
+						"star",
+						"startY〔variable〕"
+					],
+					[
+						"lef",
+						"leftChildBox〔variable〕"
+					],
+					[
+						"left",
+						"leftChildBox〔variable〕"
+					],
+					[
+						"hea",
+						"header	Tag"
+					],
+					[
+						"no",
+						"nowTime"
+					],
+					[
+						"se",
+						"seconds"
+					],
+					[
+						"span",
+						"spansParent"
+					],
+					[
+						"par",
+						"parseInt〔function〕"
+					],
+					[
+						"ite",
+						"items"
+					],
+					[
+						"te",
+						"template"
+					],
+					[
+						"mi",
+						"min_key"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/liugengpc/Desktop/SM/SM/www/areas/goodsList/goodsList.html",
+					"settings":
+					{
+						"buffer_size": 1727,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/User/chrome.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Nodejs/Nodejs.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"tag",
+						"Tag: Auto-Format Tags on Selection"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"al",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"ter",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"q",
+						"Quote '  <HTML>' + '  </HTML>';"
+					],
+					[
+						"",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"qu",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"quo",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"ali",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"ro",
+						"Package Control: Remove Package"
+					],
+					[
+						"r",
+						"Package Control: Remove Package"
+					],
+					[
+						"sideba",
+						"View: Toggle Side Bar"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"op",
+						"Terminal: Open in project folder"
+					],
+					[
+						"te",
+						"Terminal: Open"
+					],
+					[
+						"pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"con",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"conver",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"col",
+						"Color Picker"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ese",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"ever",
+						"Evernote: List recent notes"
+					],
+					[
+						"evernote",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"tpmlm",
+						"Tmpl: Create markdown"
+					],
+					[
+						"tpl",
+						"Tmpl: Create markdown"
+					],
+					[
+						"set mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Evernote Metadata"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"do",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"MarkdownEditing",
+						"Preferences: MarkdownEditing Settings – Default"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ev",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"everno",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"md",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"search",
+						"Evernote: Search Note"
+					],
+					[
+						"Evernote: Open Evernote Note",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"send to everonte",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"toggle me",
+						"View: Toggle Menu"
+					],
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"wr",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"instaa",
+						"Package Control: Install Package"
+					],
+					[
+						"CSS",
+						"Set Syntax: CSS"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"jq",
+						"Snippet: jQuery.get"
+					],
+					[
+						"jQuery",
+						"Snippet: jQuery.ajax"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"package control ",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: List Packages"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"minimap",
+						"View: Toggle Minimap"
+					],
+					[
+						"remov",
+						"Emmet: Remove Tag"
+					],
+					[
+						"romove",
+						"Package Control: Remove Channel"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"key bindings",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"sidebar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"seting",
+						"Preferences: Settings - User"
+					],
+					[
+						"key b",
+						"Preferences: Key Bindings - Default"
+					]
+				],
+				"width": 472.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"sublime.log_commands(true)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/liugengpc/Desktop/Hybird App",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www",
+				"/C/Users/liugengpc/Desktop/SM",
+				"/C/Users/liugengpc/Desktop/SM/SM",
+				"/C/Users/liugengpc/Desktop/SM/SM/www",
+				"/C/Users/liugengpc/Desktop/SM/SM/www/areas",
+				"/C/Users/liugengpc/Desktop/SM/SM/www/areas/goodsList"
+			],
+			"file_history":
+			[
+				"/C/Users/liugengpc/Desktop/Todo.md",
+				"/C/Users/liugengpc/Desktop/4号.md",
+				"/C/Users/liugengpc/Desktop/angular-me/index.html",
+				"/C/Users/liugengpc/Desktop/angular-me/demo.js",
+				"/E/传智视频/就业班/angular/day04/day04/day04/README.md",
+				"/C/Users/liugengpc/Desktop/angular/demo.js",
+				"/C/Users/liugengpc/Desktop/angular/npm-debug.log",
+				"/C/Users/liugengpc/Desktop/node_modules/angular/package.json",
+				"/C/Users/liugengpc/Desktop/angular/index.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/index.html",
+				"/C/Users/liugengpc/.npmrc",
+				"/C/Users/liugengpc/.cnpmrc",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home_controller.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home_route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/home/home_service.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab_route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab_controller.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/tab/tab_service.js",
+				"/G/面试相关/项目/工作经验.md",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage_controller.js",
+				"/G/面试相关/面试题/面试题总结-html-css部分.md",
+				"/C/Users/liugengpc/Desktop/demo.html",
+				"/C/Users/liugengpc/Desktop/31号.md",
+				"/G/面试相关/面试题/面试题总结.md",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage_route.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guidePage_service.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/areas/guidePage/guildPage.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/app.js",
+				"/G/二期就业班/ionic/2、资料/备课代码/第二遍代码/myApp/www/index.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/global.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/myApp_tabs/www/js/config.js",
+				"/C/Users/liugengpc/Desktop/Hybird App/Interview.html",
+				"/C/Users/liugengpc/Desktop/Hybird App/31号.md",
+				"/C/Users/liugengpc/Desktop/项目/工作经验.md",
+				"/G/www/study/Ajax/demo.html",
+				"/G/www/study/Ajax/01.php",
+				"/D/wamp/bin/apache/Apache2.2.21/bin/php.ini",
+				"/C/Users/liugengpc/Desktop/Ajax/demo.html",
+				"/C/Users/liugengpc/Desktop/工作经验.md",
+				"/G/面试相关/面试注意/简历书写注意点.md",
+				"/C/Users/liugengpc/Desktop/简历书写注意点.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/E/传智视频/就业班/angular/day01/day01/code/01-hash.html",
+				"/E/传智视频/就业班/angular/day01/day01/code/05-calc.html",
+				"/E/传智视频/就业班/angular/day02/day02/README.md",
+				"/C/Users/liugengpc/Desktop/angular/register.html",
+				"/E/传智视频/就业班/angular/day01/day01/code/07-register.html",
+				"/E/传智视频/就业班/angular/day02/day02/UNREADME.md",
+				"/C/Users/liugengpc/Desktop/angular/test/directive.html",
+				"/C/Users/liugengpc/Desktop/AngularJS.sublime-package",
+				"/G/lib/jquery/jquery-1.12.1.js",
+				"/E/传智视频/就业班/angular/day01/day01/code/08-reg2.html",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/E/传智视频/就业班/angular/day01/day01/code/02-spa-hash.html",
+				"/E/传智视频/就业班/angular/day01/day01/README.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/lianxi.html",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/test/index.html",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/JavaScriptNext.sublime-settings",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/test/bower_components/angular/README.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/C/Users/liugengpc/Desktop/angular/test/bower_components/jquery/README.md",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+				"/C/Users/liugengpc/Desktop/gulp-object/gulpfile.js",
+				"/C/Users/liugengpc/Desktop/project/README.md",
+				"/C/Users/liugengpc/Desktop/hosts",
+				"/C/Users/liugengpc/.ssh/id_rsa.pub",
+				"/G/www/study/360/index.html",
+				"/C/Users/liugengpc/Desktop/note/my-git-note.md",
+				"/C/Users/liugengpc/.gitconfig",
+				"/G/www/study/360/.git/index",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/liugengpc/Desktop/liugeng/index.html",
+				"/C/Users/liugengpc/Desktop/myalbum2/app.js",
+				"/C/Users/liugengpc/Desktop/fiddler/资料/README.md",
+				"/C/Users/liugengpc/Desktop/nodejs/happy-blog/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/controller/album.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/controller/album.js",
+				"/C/Users/liugengpc/Desktop/express - 副本 (2).md",
+				"/C/Users/liugengpc/Desktop/express - 副本.md",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/test/demo2.js",
+				"/C/Users/liugengpc/Desktop/express.md",
+				"/E/传智视频/就业班/nodejs/NodeJS第09天/code/README.md",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/controller/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/controller/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/router.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/myalbum/config.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/router.js",
+				"/C/Users/liugengpc/Desktop/nodejs/相册项目/album/config.js",
+				"/C/Users/liugengpc/Desktop/fiddler/两种模式.js",
+				"/C/Users/liugengpc/Desktop/fiddler/index.js",
+				"/C/Users/liugengpc/Desktop/fiddler/README.md",
+				"/C/Users/liugengpc/Desktop/nodejs/mysing/lib/index.js",
+				"/C/Users/liugengpc/Desktop/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/music/my-music-pro-4/index.js",
+				"/C/Users/liugengpc/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/liugengpc/Desktop/nec-plugin-sublime-snippets/nec-plugin-sublime-snippets/css-snippets/g-bd1兼容.sublime-snippet",
+				"/C/Users/liugengpc/Desktop/xtemplate-master/xtemplate-master/docs/syntax-cn.md",
+				"/C/Users/liugengpc/Desktop/sql.sql",
+				"/C/Program Files/MySQL/MySQL Server 5.5/my.ini",
+				"/C/Users/liugengpc/Desktop/my.ini",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/controller/user.js",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/app.js",
+				"/C/Users/liugengpc/Desktop/album/app.js",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/test/demo1.html",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/config.js",
+				"/C/Users/liugengpc/Desktop/nodejs/myalbum/router.js",
+				"/C/Users/liugengpc/Desktop/nodejs/express/index.js",
+				"/C/Users/liugengpc/Desktop/nodejs/express/README.md",
+				"/C/dev/nvm/npm/node_modules/nrm/registries.json",
+				"/C/Users/liugengpc/Desktop/nodejs/music/my-music-pro-4/common/render.js"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 144.0,
+				"where_history":
+				[
+					"E:\\我的项目",
+					"C:\\Users\\liugengpc\\Desktop\\我的网页\\三个网站实例\\网页布局基础"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"header",
+					"heade",
+					"any",
+					"arr",
+					"“",
+					"size",
+					"tabsize",
+					"init",
+					"substrin",
+					"reindent",
+					"indent",
+					"tab_size",
+					"tab",
+					"});\n",
+					"default",
+					"defau",
+					"span",
+					"//",
+					"///",
+					"//",
+					"id",
+					"id=\"\"",
+					"name",
+					"querystring",
+					"url",
+					"访问数组的方式有两种，都是什么？",
+					";\n",
+					"var",
+					"fs",
+					"rootDir",
+					"readDirs",
+					" readDirs(",
+					"articalList",
+					"callback",
+					"ignored",
+					"exports",
+					"first",
+					"html",
+					"id",
+					"doms[i]",
+					"ll.css",
+					"name",
+					"ll.css",
+					"ll",
+					"dom",
+					"id",
+					"elements",
+					" global",
+					"for",
+					"_getTween",
+					"arguments",
+					"callBack",
+					" obj.callback",
+					"callback",
+					"getTween",
+					"setManyProperty",
+					"run",
+					"loop",
+					"move",
+					"run",
+					"loop",
+					"move",
+					"setManyProperty",
+					"adapterMany",
+					"getStyles",
+					"pass",
+					"destroy",
+					"_destroy",
+					"callback",
+					"add",
+					"{\n",
+					"styles",
+					"Styles",
+					"styles",
+					"callback",
+					"add",
+					"_destroy",
+					"_apdapter",
+					"arguments",
+					"$$",
+					"top",
+					"$$",
+					"obj.tween",
+					"this.",
+					"timer",
+					"ween",
+					"now",
+					"console",
+					"getTween",
+					"setManyProperty",
+					"this",
+					"styles",
+					"$$",
+					"adapter",
+					"tween",
+					"name",
+					" getTween",
+					"ease",
+					"id",
+					"ball",
+					"dom",
+					"obj",
+					"redcolor bigger",
+					"div",
+					"$$",
+					"\n            if(dom.length){\n                //先骨架骨架 -- 如果是获取模",
+					"\n                //先骨架骨架 -- 如果是获取模式 -- 如果是设置模式\n                //如果value不为空，则表示设置\n                if(value){",
+					"$$",
+					"$all",
+					"$$",
+					"css",
+					"$$",
+					"$group",
+					"select",
+					"len1",
+					"$$",
+					"len",
+					"console",
+					"$cenci",
+					"item.slice(index + 1)",
+					"$$",
+					"idDom",
+					"$class",
+					"id",
+					"hover",
+					"document",
+					"导演",
+					"美人鱼"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"#",
+					"hello"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\liugengpc\\Desktop\\Hybird App"
+				},
+				{
+					"path": "C:\\Users\\liugengpc\\Desktop\\SM"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/liugengpc/Desktop/SM/SM/www/areas/goodsList/goodsList.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1727,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"bs_sintax": "html",
+									"buffer_scroll_name": "e7098865",
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										224,
+										4,
+										6,
+										10,
+										17,
+										31,
+										4,
+										249,
+										193,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_xml": false,
+									"origin_encoding": "UTF-8",
+									"spell_check": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 42.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 47.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 280.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 238.0
+			},
+			"pinned_build_system": "Packages/User/chrome.sublime-build",
+			"position": "0,0,1,-1,-1,-1,-1,473,108,31,1110",
+			"project": "",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"re",
+						"my-music-pro-4\\common\\render.js"
+					],
+					[
+						"this",
+						"demo\\thisele.html"
+					],
+					[
+						"html5/",
+						"html5\\1.html"
+					],
+					[
+						"boot",
+						"练习\\bootstrap.css"
+					],
+					[
+						"111",
+						"练习\\111.html"
+					],
+					[
+						"two.html",
+						"Canvas\\two.html"
+					],
+					[
+						"reg.html",
+						"小实例\\表单\\reg.html"
+					],
+					[
+						"html",
+						"练习\\表单.html"
+					],
+					[
+						"css",
+						"形形色色的下拉菜单\\css.html"
+					],
+					[
+						"",
+						"网页布局基础\\case2\\index.html"
+					],
+					[
+						"style.css",
+						"网页布局基础\\case2\\css\\style.css"
+					],
+					[
+						"index.html",
+						"网页布局基础\\case2\\index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 70,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/liugengpc/Desktop/归档/html5/html5.sublime-workspace"
+		]
+	}
+}

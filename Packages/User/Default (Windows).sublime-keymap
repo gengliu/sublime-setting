@@ -1,0 +1,7 @@
+[
+  {"keys": ["alt+d"], "command": "code_intel_auto_complete" },
+  { "keys": ["ctrl+alt+a"],"command": "quote_html","args": {"action": "single"}},
+  {"keys": ["shift+tab"], "command": "reindent", "args": {"single_line": false}}
+]
+
+

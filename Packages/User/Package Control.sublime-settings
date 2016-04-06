@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AngularZen",
+		"AutoFileName",
+		"Babel",
+		"Better Completion",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ConvertToUTF8",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Nodejs",
+		"Package Control",
+		"PlainTasks",
+		"QuoteHTML",
+		"RemoveSelection",
+		"Sass",
+		"SideBarEnhancements",
+		"StyleToken",
+		"SublimeCodeIntel",
+		"SublimeServer",
+		"Tag",
+		"Terminal",
+		"Theme - Spacegray"
+	]
+}
